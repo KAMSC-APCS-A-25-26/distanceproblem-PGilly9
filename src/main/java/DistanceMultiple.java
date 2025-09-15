@@ -81,31 +81,16 @@ Parker Gilliland
 APCS-A
 AP Java Software Solutions 2.8
 
-
-
-
 How many runs would you like to do:  3
-
-
-
 
 Please insert 2 coordinate pairs:  (2,3) (7,3)
 The Distance is 5.0
 
-
-
-
 Please insert 2 coordinate pairs:  (4,5) (8,8)
 The Distance is 5.0
 
-
-
-
 Please insert 2 coordinate pairs:  (-1,-2) (0,7)
 The Distance is 9.055385138137417
-
-
-
 
 Process finished with exit code 0
 */
